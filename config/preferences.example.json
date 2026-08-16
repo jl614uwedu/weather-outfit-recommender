@@ -1,0 +1,8 @@
+{
+  "default": {
+    "style": "casual",
+    "comfort": "runs cold",
+    "dress_code": "business casual",
+    "owned_items": ["navy raincoat", "grey wool coat", "running shoes"]
+  }
+}

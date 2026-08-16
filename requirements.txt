@@ -1,0 +1,6 @@
+requests>=2.31
+anthropic>=0.40
+pytest>=8.0
+
+# Only needed if SENDER=outlook
+msal>=1.28
